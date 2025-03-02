@@ -16,3 +16,10 @@ This project analyzes Walmart's **sales performance, customer trends, and produc
 - **Python**, **SQL**, **Tableau**
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `requests`, `beautifulsoup4`
 - **Jupyter Notebooks**, **GitHub**
+
+## 📸 Screenshots / Visuals 
+
+![image](https://github.com/user-attachments/assets/7bbf06fb-34fe-4abd-85a2-bc6948534eb5)
+
+![image](https://github.com/user-attachments/assets/70bcca70-82be-48bf-90cd-f0349b31884f)
+
